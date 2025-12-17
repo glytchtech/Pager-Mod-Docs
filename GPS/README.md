@@ -1,6 +1,6 @@
 # Glytch GPS Mod for WiFi Pineapple Pager
 
-Designed by maker prodigy **Glytch** in collaboration with **Hak5**, the **Glytch GPS Mod for the WiFi Pineapple Pager** adds precise GNSS location data to your Pager for wardriving and location-aware recon.
+Designed by **Glytch** in collaboration with **Hak5**, the **Glytch GPS Mod for the WiFi Pineapple Pager** adds precise GNSS location data to your Pager for wardriving and location-aware recon.
 
 This GPS Mod features a **Quectel LC86 GNSS chipset** with **multi-constellation support**, is **3D printed and hand-assembled**, and may show small variations typical of handcrafted hardware.
 
@@ -12,7 +12,7 @@ https://shop.hak5.org/collections/glytchtech/products/glytch-gps-mod-for-pager
 ## 📦 What’s Included
 
 - Glytch GPS Mod for WiFi Pineapple Pager  
-- Hand-assembled, maker-grade 3D printed enclosure  
+- Hand-assembled, 3D printed enclosure  
 - GNSS support via the Quectel LC86 series chipset
 
 ---
