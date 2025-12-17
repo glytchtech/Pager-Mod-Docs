@@ -107,9 +107,8 @@ For help, tips, and community discussion:
 
 ###	💬 Hak5 Community Forums:
 https://community.hak5.org
-### 🐛 Found a bug or have an improvement?
-Open an issue on this GitHub repository
+
 
 ⸻
 
-Happy hacking, and enjoy taking your WiFi Pineapple Pager mobile with the Glytch GPS Mod! 🌍📡
+Happy hacking!
