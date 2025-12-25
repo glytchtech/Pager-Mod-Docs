@@ -24,7 +24,7 @@ Follow these steps to configure your Mesh Mod on the WiFi Pineapple Pager:
 2. Attach the **Glytch Mesh Mod** to your Pager’s **USB port**
 
 3. Download the install payload from the following URL:
-   [PAYLOAD LINK]
+   [[PAYLOAD LINK]](https://github.com/glytchtech/Pager-Mod-Docs/blob/main/Mesh/payload.sh)
 
 4. Move the payload to your Pager via preferred method (SCP, etc)
 
