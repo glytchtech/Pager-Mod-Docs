@@ -35,7 +35,7 @@ Follow these steps to configure your GPS Mod on the WiFi Pineapple Pager:
    - **LC86G GPS Mod** → `115200`
 
 5. Select **Serial Device** and choose:  
-   `ttyUSB0`
+   `1.1_1-1.1:1.0` (typically the first and only option) 
 
 6. Select **Restart GPSd**
 
