@@ -51,7 +51,7 @@ else
 
   LOG "Adding Meshtastic feed"
   sed -i '/meshtastic/d' /etc/opkg/customfeeds.conf 2>/dev/null || true
-  echo "src/gz meshtastic https://openwrt.meshtastic.org/openwrt-24.10/mipsel_24kc/" \
+  echo "src/gz meshtastic https://openwrt.meshtastic.org/openwrt-24.10/mipsel_24kc" \
     >> /etc/opkg/customfeeds.conf
 
   LOG "Detecting kernel kmod ABI"
