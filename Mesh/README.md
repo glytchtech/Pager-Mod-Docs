@@ -32,7 +32,7 @@ Follow these steps to configure your Mesh Mod on the WiFi Pineapple Pager:
 
    **NOTE: THIS PROCESS WILL TAKE APPROXIMATELY 5 MINUTES, DO NOT INTERRUPT**
    
-6. Once the payload has finished, the MeshtasticD service is now enabled and running in the background.
+6. Once the payload has finished, the MeshtasticD service should be started by selecting START in the payload menu. You can also Enable Auto Start at boot if desired.
 
    You may now connect to the Pager's IP via the Meshtastic App on your mobile device (172.16.52.1 if connected to Pager via Management AP or USB C)
 
