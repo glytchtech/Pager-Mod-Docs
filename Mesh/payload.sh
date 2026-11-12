@@ -19,7 +19,7 @@ if ! command -v LOG >/dev/null 2>&1; then LOG() { printf '%s\n' "$*"; }; fi
 PACKAGE_VERSION='2.7.26-r1'
 OLD_USB_VERSION='2.7.26-r1+meshusb.1'
 BINARY_SHA256='615d3d9873f78c42a1e7722d03c0a2ddbeb156cdd1972b49cd0c7cab3a4d4e10'
-KERNEL_VERSION='6.6.86~c8badeb44cdf8ea9da9e8314010b8614-r1'
+KERNEL_VERSION='6.6.86~0fbfa4466645c342de685cb0d5aab831-r1'
 REAL_DEPS=(libc bluez-libs libgpiod libi2c libopenssl3 liborcania libulfius-gnutls libusb-1.0-0 libuv1 libyaml-cpp0.7 libyder zlib)
 UPSTREAM_URL='https://openwrt.meshtastic.org/openwrt-24.10/mipsel_24kc/meshtasticd-full_2.7.26-r1_mipsel_24kc.ipk'
 UPSTREAM_SHA256='5cf3398ace72d4d5dd06a0383d4f54d048856d6c723c9c4909876171aaaa6fd5'
